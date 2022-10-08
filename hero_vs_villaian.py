@@ -54,37 +54,31 @@ class Villain:
 
     def get_smartness(self):
         return self.smartness
-
     def set_smartness(self, smartness):
         self.smartness = smartness
 
     def get_strength(self):
         return self.strength
-
     def set_strength(self, strength):
         self.strength = strength
 
     def get_power(self):
         return self.power
-
     def set_power(self, power):
         self.power = power
 
     def get_fashion(self):
         return self.fashion
-
     def set_fashion(self, fashion):
         self.fashion = fashion
 
     def get_looks(self):
         return self.looks
-
     def set_looks(self, looks):
         self.looks = looks
 
     def get_speed(self):
         return self.speed
-
     def set_speed(self, speed):
         self.speed = speed
 
